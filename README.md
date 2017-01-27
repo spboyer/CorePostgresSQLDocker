@@ -1,6 +1,6 @@
 # CorePostgresSQLDocker
 
-MSBUILD version of https://github.com/danwahlin/AspNetCorePostgreSQLDockerApp 
+MSBUILD version of https://github.com/danwahlin/AspNetCorePostgreSQLDockerApp (just the API portion)
 
 ```
 npm install
